@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(gh release *)",
+      "Bash(python -c \"import playwright\")",
+      "Bash(python -c \"import playwright; print\\('ok'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python screenshot.py)"
+    ]
+  }
+}

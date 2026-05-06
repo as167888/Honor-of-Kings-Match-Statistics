@@ -40,8 +40,8 @@
 **1. 克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/honor-of-kings-match-statistics.git
-cd honor-of-kings-match-statistics
+git clone https://github.com/as167888/Honor-of-Kings-Match-Statistics.git
+cd Honor-of-Kings-Match-Statistics
 ```
 
 **2. 安装依赖**
